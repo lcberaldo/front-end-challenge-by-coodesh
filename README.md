@@ -1,4 +1,6 @@
-## FRONTEND CHALLENGE BY COODESH - LEONARDO CASAGRANDE BERALDO
+## FRONTEND CHALLENGE BY COODESH
+
+**LEONARDO CASAGRANDE BERALDO**
 
 Project developed to test and train skills with ReactJS framework
 
