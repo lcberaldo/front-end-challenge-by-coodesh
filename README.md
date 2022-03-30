@@ -2,20 +2,16 @@
 
 Project developed to test and train skills with ReactJS framework
 
-**ReactJS**
-**Styled-Components**
+**ReactJS**  
+**Styled-Components**  
 **Context API**
 
 ## Instructions
 
--Clone the repo
--run yarn
+-Clone the repo  
+-run yarn  
 -run yarn start
-
-**challenge by coodesh**
 
 ## challenge by coodesh
 
-**challenge by coodesh**
-
-## https://coodesh.com/
+**https://coodesh.com/**
